@@ -1,3 +1,3 @@
-name = "" # todo
+name = "maid-chan"
 main = "./src/index.ts"
 compatibility_date = "2022-05-03"
